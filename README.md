@@ -88,7 +88,9 @@ interactive_dashboard.html
 
 
 ➡ Works in any browser
+
 ➡ No installation required
+
 ➡ Includes filters (Region-wise view)
 
 Option 2 — PDF Summary
@@ -99,10 +101,13 @@ task8_dashboard_report.pdf
 
 
 ➡ Contains visuals and business insights
+
 ➡ Ready for submission and printing
 
 7. Author
 
 Badam Sri Vidya
+
 Elevate Internship — Task 8 Submission
+
 B.Tech CSE (Data Science)
